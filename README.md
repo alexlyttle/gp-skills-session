@@ -9,3 +9,5 @@ git clone https://github.com/alexlyttle/gp-skills-session.git
 cd gp-skills-session
 git checkout tutorial
 ```
+
+Navigate to the directory in your iPython environment of choice (e.g. `jupyter notebook`) and open `gaussian_process.ipynb`.
