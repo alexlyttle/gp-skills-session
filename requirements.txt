@@ -1,6 +1,7 @@
 numpy
 scipy
 matplotlib
+seaborn
 emcee
 corner
 version_information
